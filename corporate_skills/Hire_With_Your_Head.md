@@ -2,10 +2,7 @@
 
 ##### by Lou Adler
 
-
 _Has Hire With Your Head by Lou Adler been sitting on your reading list? Pick up the key ideas in the book with this quick summary._
-
-
 
 Any manager knows that one great employee is worth more than a pile of mediocre staffers. Having brilliant or average employees can make or break your business. If you want to grow a strong team and a flourishing business, you’d better know how to hire.
 
@@ -19,15 +16,7 @@ In this summary of Hire With Your Head by Lou Adler, you’ll learn
 *   what great talent looks for in a job description; and
 *   one way to ensure people complete applications on your company’s website.
 
-
-
-
-
-
-
 # Hire With Your Head Key Idea #1: Don’t be fooled by the common misconceptions about recruitment.
-
-
 
 How do you attract the best candidates when trying to fill a position? First, you need to educate yourself on some common misconceptions about hiring.
 
@@ -47,15 +36,7 @@ How can you do this? First off, wait at least 30 minutes after an interview befo
 
 The real key to ensuring that you’re hiring by performance is to create _performance profiles_. Read on to see how they work.
 
-
-
-
-
-
-
 # Hire With Your Head Key Idea #2: Traditional job descriptions aren’t effective at finding the best candidates.
-
-
 
 Most people recruit by writing a job description that contains a long list of desired skills or traits. That’s not the most effective method, however. It’ll only lead you to recruit average employees.
 
@@ -79,15 +60,7 @@ The best candidates look for positions based on what they’ll be doing and lear
 
 An ambitious person won’t be attracted to a job description that’s just a boring list of duties, so use performance profiles if you want to bring in the best people.
 
-
-
-
-
-
-
 # Hire With Your Head Key Idea #3: Be creative with your recruitment methods.
-
-
 
 Many businesses struggle to develop a recruitment process that’s efficient. Some even have entire departments devoted to recruitment. That can really eat up your resources.
 
@@ -111,15 +84,7 @@ Keep the process on your side efficient too. Call the top candidates within 24 h
 
 Remember: the companies that win in recruitment are those that have the most creative and aggressive recruitment programs. Here’s a tip: treat your candidates like potential customers, not future subordinates.
 
-
-
-
-
-
-
 # Hire With Your Head Key Idea #4: Interviews should be a fact-finding mission, not a popularity contest.
-
-
 
 Some employers use interviews as tests to see whether the candidate will fit in with the company or not. If you catch yourself doing that, stop. It’s not a good use of an interview.
 
@@ -141,15 +106,7 @@ Imagine you’re interviewing for a sales management position. You might want to
 
 Don’t hesitate to clarify the facts, either. Sometimes interviewers don’t ask follow-up questions because they’re afraid of appearing confused. Details are important, however, so make sure you get as many as you can.
 
-
-
-
-
-
-
 # Hire With Your Head Key Idea #5: You’ll miss out on the best candidates if you go with your first impression.
-
-
 
 We’ve seen how first impressions can be deceptive in interviews. It’s easy to get hung up on emotional prejudices when hiring – you should actively strive to avoid that.
 
@@ -169,15 +126,7 @@ Panel interviews also make it easier to assess the candidate’s responses. In o
 
 Panel interviews can be intimidating for the candidate, however. If you’re going to use a panel, warn them beforehand. An interview shouldn’t feel like an interrogation, after all.
 
-
-
-
-
-
-
 # Hire With Your Head Key Idea #6: Check your candidates’ references and backgrounds.
-
-
 
 Interviews are important, but don’t hire anyone because of their interview alone. That shouldn’t be the only way you assess your candidates. Take care to check them out thoroughly. If not, you’ll just waste more time and resources training and firing someone you shouldn’t have hired in the first place.
 
@@ -195,15 +144,7 @@ You should also do a background check on your candidates. Check their degrees, e
 
 You might think this all sounds like a lot of work just for recruitment, but remember: it’s worth it. Do the work in the beginning instead of finding out when it’s too late!
 
-
-
-
-
-
-
 # Hire With Your Head Key Idea #7: Great recruiting is a process of buying and selling.
-
-
 
 Some people get confused about where the recruitment process actually begins and ends. In fact, it starts the day you announce the vacancy, and continues until the final interview.
 
@@ -223,15 +164,7 @@ One important lesson the author learned in his 25 years of experience is that th
 
 So ask yourself, “Why would a high-performing person want this job?”
 
-
-
-
-
-
-
 ## In Review: Hire With Your Head Book Summary
-
-
 
 The key message in this book:
 
@@ -243,4 +176,7 @@ Actionable advice:
 
 Use action verbs in your performance profile. C_reate_, _build_, _change_ or _improve_ are much better at describing the work that needs to be done than passive words like _have to_ and _be responsible for_.
 
-**Suggested** **further** **reading:** **_Growing Great Employees_ ****by Erika Andersen**
+**Suggested** **further** **reading:** _Growing Great Employees_ **by Erika Andersen**
+
+## Source
+[Lifeclub.org](https://lifeclub.org/)
