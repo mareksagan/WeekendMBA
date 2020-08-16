@@ -278,7 +278,7 @@ _#63: Analyze yourself and your team_
 
 Even if you are not a psychology student, it is enlightening to understand that people, including yourself, act as they do, not because that’s how they want to act, but because that’s how they are. Basically, people see and react to things in very different ways. The simple fact of acknowledging that people are remarkably different will help you accept different personalities as normal, rather than looking badly upon someone who does not see things the same way you do.
 
-## **Book Critique of “The Unwritten Law of Business” **:
+## Book Critique of “The Unwritten Law of Business”:
 
 The Unwritten Laws of Business is a concise collection of advice that touches numerous areas.
 
