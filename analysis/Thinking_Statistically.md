@@ -77,5 +77,3 @@ Thinking Statistically is less than 100 pages long, and is a quick read. Thinkin
 [Thinking Statistically](https://amzn.to/2oWLLgy) is fine book for increasing your understanding about statistics, and the concepts and theories of selection bias, endogenity and Bayes’ Theorem.
 
 If you are looking to learn more about statistics, definitely check out Thinking Statistically.
-
-[![Thinking Statistically](https://i1.wp.com/www.themastermindwithin.com/wp-content/uploads/2017/04/41suBoL8N4L._SX311_BO1204203200_.jpg?resize=188%2C300&ssl=1)
