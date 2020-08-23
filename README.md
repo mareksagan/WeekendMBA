@@ -10,3 +10,4 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 ## Sources
 [Lifeclub.org](https://lifeclub.org/)
 [Books-that-can-change-your-life.net](https://books-that-can-change-your-life.net/)
+[Beyondintractability.org](https://www.beyondintractability.org/)

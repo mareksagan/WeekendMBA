@@ -188,7 +188,7 @@ By acknowledging that business is inherently risky, you won’t be blinded by ap
 
 The key message in this book:
 
-**Although** **every** **manager** **wants** **a** **roadmap** **to** **running** **a** **successful** **business,** **there** **are** **no** **guaranteed** **steps** **that** **will** **ensure** **success.** **Countless** **business** **gurus** **have** **written** **books** **that** **claim** **to** **have** **a** **magical** **formula,** **but** **unfortunately,** **the** **books** **are** **rife** **with** **methodological** **flaws.** **Although** **the** **books** **reach** **appealing** **conclusions,** **they’re** **more** **deceptive** **than** **helpful.** **While** **there** **is** **no** **“recipe”** **for** **business** **success,** **careful** **strategic** **planning** **and** **accurate** **execution** **can** **help.**
+**Although every manager wants a roadmap to running a successful business, there are no guaranteed steps that will ensure success. Countless business gurus have written books that claim to have a magical formula, but unfortunately, the books are rife with methodological flaws. Although the books reach appealing conclusions, they’re more deceptive than helpful. While there is no “recipe” for business success, careful strategic planning and accurate execution can help.**
 
 Actionable advice:
 
