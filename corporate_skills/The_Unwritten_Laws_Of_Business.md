@@ -287,6 +287,3 @@ I greatly appreciated the universal appeal of the rules, even though it is clear
 From my eight years of experience managing my business and my involvement in those of my clients, I can tell you that most of the rules are right on, as much in their content as in the fact that they are frequently forgotten, to everyone’s detriment. It is quite simply a collection or a compilation of wisdom and good sense, alas, too often set aside, and the fruit of many years of observation and experience that comes through in every line.
 
 The large number of rules, however, makes them difficult to apply, it seems to me, and a good number of them, unfortunately, fall into the bucket of _in one ear and out the other,_ that affects all of us. I think that _The Unwritten Laws of Business_ should be used as a collection of sayings and good practices to re-read from time to time to help keep our feet on the ground whenever we have a tendency to get above ourselves, and if we make a note of several rules with each reading, they will enlighten us about specific problems that affect us.
-
-## Source
-[Books-that-can-change-your-life.net](https://books-that-can-change-your-life.net/)

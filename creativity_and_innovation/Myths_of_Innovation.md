@@ -18,15 +18,7 @@ In this summary of The Myths of Innovation by Scott Berkun, you’ll learn
 *   that groundbreaking inventions are rarely the work of a single individual; and
 *   how people sometimes fail to see the worth of a great idea at first glance.
 
-
-
-
-
-
-
 # The Myths of Innovation Key Idea #1: Great ideas aren’t born from divine inspiration but from a build-up of smaller thoughts.
-
-
 
 Whether visiting an artist’s studio, an inventor’s workshop or a researcher’s lab, people often ask innovators the same question: “Where do your ideas come from?”
 
@@ -42,15 +34,7 @@ Instead of a divine moment of inspiration, most creatives accumulate many small 
 
 Unlike Newton’s apple, great ideas don’t just fall from trees. To come up with an innovative thought, we need to give it time, which we’ll look at how to do right now.
 
-
-
-
-
-
-
 # The Myths of Innovation Key Idea #2: Relentlessly generate new ideas and give them time to grow into great ones.
-
-
 
 Today’s world is all about convenience. Everything nowadays is being sold to us pre-packaged – from meals to holidays, clothes to entertainment. The problem with this convenient consumer culture is that we also expect our new ideas to come conveniently gift-wrapped, which is another myth of innovation.
 
@@ -66,15 +50,7 @@ The world’s greatest creative thinkers are known for compulsively coming up wi
 
 Great ideas don’t come quick and easy; they require a lot of hard work. We need to constantly generate new ideas and then tend to them, as well as allow them time to bloom.
 
-
-
-
-
-
-
 # The Myths of Innovation Key Idea #3: Patent laws lead us to believe that great ideas come from one innovator, but really they’re the product of multiple thinkers.
-
-
 
 If you were to ask a young child who invented pancakes, they’d most likely answer, “My mom!” Well, the bad habit of assuming that the person we associate with an invention is also its creator doesn’t stop at childhood. How many of us think that Thomas Edison invented the electric light bulb? And how many know that it was in fact invented by the lesser-known Humphry Davy and Joseph Swan? Unfortunately, the myth of the lone innovator has robbed these two men of their laurels.
 
@@ -88,15 +64,7 @@ However, the opposite is more often the case. Many innovations are invented simu
 
 Despite evidence from cases such as Armstrong’s and the origin of calculus, the myth that great ideas are the work of the isolated inventor still prevails.
 
-
-
-
-
-
-
 # The Myths of Innovation Key Idea #4: Curb people’s aversion to new ideas by offering samples.
-
-
 
 Creator of the telephone, Alexander Graham Bell, had his invention dismissed as nothing more than a useless toy by the world’s leading communication company at the time, and George Lucas’s original _Star Wars_ script was rejected by all the major Hollywood studios except one. This brings us to another innovation myth – that people like new ideas.
 
@@ -112,15 +80,7 @@ Samples, giveaways and demonstrations all lower risks and thereby reduce the fea
 
 Start small and you’ll find that your big ideas will be easier to digest.
 
-
-
-
-
-
-
 # The Myths of Innovation Key Idea #5: Many great ideas were rejected in the past by managers who were biased against innovation.
-
-
 
 Can you imagine Stephen Hawking working for a typical boss who demands that he submit daily status reports? Or what about Albert Einstein and Isaac Newton having to get their time cards stamped? How about Mozart, Marie Curie and Leonardo da Vinci taking notes at a company conference?
 
@@ -140,15 +100,7 @@ Or did you know that managers working with propeller-aircraft were the last peop
 
 Managers have failed to see the value of many great inventions in the past, so take a leaf out of Hawking’s or Einstein’s book and keep on innovating.
 
-
-
-
-
-
-
 # The Myths of Innovation Key Idea #6: You must consider the broader context before assuming that your idea will succeed.
-
-
 
 Fairy tales and stories of heroes usually follow a familiar trajectory: the good guy wins, the bad guy loses and those who follow the right path are rewarded. These stories demonstrate our deeply held beliefs about meritocracy – that the best individual or idea will or _should_ win. However, the belief that “goodness” wins is yet another myth of innovation.
 
@@ -162,15 +114,7 @@ Why is that? Well, some Asian cultures believed that it was more honorable to fi
 
 Therefore, being the “best” technology reflects only one aspect of innovation – we must also remember to take into consideration the idea’s cultural context.
 
-
-
-
-
-
-
 ## In Review: The Myths of Innovation Book Summary
-
-
 
 The key message in this book:
 
@@ -181,12 +125,3 @@ Actionable advice:
 **Ensure potential customers are receptive to your ideas.**
 
 Innovation begins when people start _using_ your idea. Don’t forget the importance of marketing in transforming your concept into reality. Many innovations such as the steam engine existed many hundreds of years before the right innovator came along and positioned them in a way that made them attractive and accessible to the public. So, once you’ve perfected the technology, remember to focus on getting the marketing and communication right, too!
-
-
-
-
-
-</article>
-
-
-

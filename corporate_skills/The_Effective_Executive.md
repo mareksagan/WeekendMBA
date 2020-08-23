@@ -184,6 +184,3 @@ Today, sit down and create a chart that estimates how you think you spend your t
 **Suggested** **further** **reading:** **_Innovation and Entrepreneurship_** **by Peter Drucker**
 
 _Innovation and Entrepreneurship_ demonstrates how to be innovative and reveals strategies that create customers for your innovation. It shows how entrepreneurship can be learned and implemented by anyone and how entrepreneurial skills can be used not just in new ventures but in established corporations.
-
-## Source
-[Lifeclub.org](https://lifeclub.org/)

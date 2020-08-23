@@ -177,6 +177,3 @@ Actionable advice:
 Use action verbs in your performance profile. C_reate_, _build_, _change_ or _improve_ are much better at describing the work that needs to be done than passive words like _have to_ and _be responsible for_.
 
 **Suggested** **further** **reading:** _Growing Great Employees_ **by Erika Andersen**
-
-## Source
-[Lifeclub.org](https://lifeclub.org/)

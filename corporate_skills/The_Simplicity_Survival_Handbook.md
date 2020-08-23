@@ -710,6 +710,3 @@ I therefore recommend it. Even if only three or four rules appealed to you in th
 #### _Weak_ _Point :_
 
 *   Above all designed for people who work in large corporations
-
-## Source
-[Books-that-can-change-your-life.net](https://books-that-can-change-your-life.net/)

@@ -213,6 +213,3 @@ The key message in this book:
 **Suggested** **further** **reading:** **_Think and Grow Rich_** **by Napoleon Hill**
 
 As a young man, Napoleon Hill was asked by industry magnate Andrew Carnegie to investigate the methods of the 500 most successful people of his time, including the world’s richest men, top politicians, famous inventors, writers and captains of industry. _Think and Grow Rich_ details what he found.
-
-## Source
-[Lifeclub.org](https://lifeclub.org/)

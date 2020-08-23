@@ -190,6 +190,3 @@ When you notice someone crossing their arms while gripping their arms tightly wi
 **Suggested** **further** **reading:** **_Spy the Lie_** **by Philip Houston**
 
 _Spy the Lie_ reveals the typical strategies that liars use to try to deceive you, as well as the tools to help you detect them. This book draws on field-tested methods for lie detection developed by former CIA officers, which helps to spot the signs of a lie and ask the right questions to uncover the truth.
-
-## Source
-[Lifeclub.org](https://lifeclub.org/)

@@ -6,3 +6,7 @@ Summaries converted using [this tool](https://www.browserling.com/tools/html-to-
 
 ## Disclaimer
 I **DO NOT** own the rights to the summaries, this is merely a backup in case they disappeared from the Internet
+
+## Sources
+[Lifeclub.org](https://lifeclub.org/)
+[Books-that-can-change-your-life.net](https://books-that-can-change-your-life.net/)
