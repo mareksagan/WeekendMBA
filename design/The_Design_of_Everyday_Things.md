@@ -1,491 +1,187 @@
-# The Design of Everyday Things (Revised & Expanded Edition) — Book Summary & Key Points
+# The Design of Everyday Things Summary and Review
 
-# Chapter 5 — Human Error? No, Bad Design
+##### by Donald A. Norman
 
-Physical limitations are well understood by designers; mental limitations are greatly misunderstood. We should treat all failures in the same way: find the fundamental causes and redesign the system do that these can no longer lead to problems.
+_Has The Design of Everyday Things by Donald A. Norman been sitting on your reading list? Pick up the key ideas in the book with this quick summary._
 
-## Root Cause Analysis
+Have you ever been overwhelmed by a simple device like a remote control? Or felt ashamed in public after not being able to open a glass door – after three attempts? Push, pull, push, how on earth does the thing work?
 
-Investigate the accident until the single, underlying cause is found. Most accidents do not have a single cause: there are usually multiple things that went wrong, multiple events that, had any one of them not occurred, would have prevented the accident.
+Don’t worry, you’re not to blame. The culprit here isn’t your stupidity: it’s bad design.
 
-## The 5 Whys
+More often than not, faulty design is the root of people’s failure to understand a product. These book summary examine how intelligent design helps users to easily and intuitively grasp a new product – and how designers can use the same intelligent principles to create great products.
 
-When searching for the reason, ask why that was the case. And then ask why again. Keep asking until you have uncovered the true underlying causes.
+In this summary of The Design of Everyday Things by Donald A. Norman,In this pack you’ll discover:
 
-![Image for post](https://miro.medium.com/max/1633/1*PxNlnw46x8_MbY9jwOJtAA.png)
+*   how bad design got one man stuck between two glass doors,
+*   how to find the root cause of any problem – but it’ll take some work – and
+*   how fixing a simple design error helped save airplane passengers’ lives.
 
-When people err, change the system so that type of error will be reduced or eliminated. When complete elimination is not possible, redesign to reduce the impact.
+# The Design of Everyday Things Key Idea #1: Products that are difficult to use or understand are the result of faulty design – not stupid users.
 
-## **Two Types of Errors: Slips and Mistakes**
+Have you ever found it impossible to get a new device working, like the remote control of a new TV set? If so, you’re not alone. Many people have difficulties using seemingly simple everyday products and often believe that they themselves are the problem. In actuality, the problem is bad design.
 
-![Image for post](https://miro.medium.com/max/1945/1*sqrhcBeh-GXL4U0Bxsf_Ng.png)
+Bad design is the result of neglecting the relation between users and technology; good design brings technology and people together.
 
-## Slips
+Imagine a TV remote. It’s capable of connecting and controlling all the devices – DVD players, satellites, game consoles, etc. – that are part of a home entertainment system. But in an effort to connect to so many devices, designers cram remotes full of confusing buttons and options – which makes them hard for people to use.
 
-A slip occurs when a person intends to do one action and ends up doing something else. With a slip, the action performed is not the same as the action that was intended.
+And although people may think that they’re too stupid to use a simple TV remote, the real culprit is the bad design that fails to connect the user and the technology.
 
-**Action-based**
+So why does bad design happen?
 
-*   The wrong action is performed
-*   _Etc: I poured some milk into my coffee and then put the coffee cup into the refrigerator. This is the correct action applied to the wrong object._
+In the modern world, one of the main causes of bad design is the incredibly rapid development of technology.
 
-**Memory-lapse**
+Take the way that cell phones have changed over the past fifteen years. They transitioned from touch pads to touch screens, and their main function is no longer just to make phone calls: now it includes texting, taking pictures, e-mailing, etc. While it’s convenient to have everything on one device, it also makes those devices prone to becoming overly complicated.
 
-*   Memory fails, so the intended action is not done or its results not evaluated.
-*   Etc: I forget to turn off the gas burner on my stove after cooking dinner.
+The ever-changing and developing nature of technology make it harder than ever for designers to make new products that are still easy to use. That’s why designers must always keep in mind that no matter how revolutionary a technology is, if it’s difficult or impossible to use, it will be useless to the consumer.
 
-* * *
+# The Design of Everyday Things Key Idea #2: A well-designed product teaches its users how to use it.
 
-## Mistakes
+Have you ever bought a new computer program and struggled to learn how it works, requiring you to constantly refer to the complicated instruction booklet? That’s a badly designed program.
 
-A mistake occurs when the wrong goal is established or the wrong plan is formed. From that point on, even if the actions are executed properly they are part of the error, because the actions themselves are inappropriate — they are part of the wrong plan.
+Why?
 
-**Rule-based**
+Because designers should create products that are user- and learner-friendly.
 
-*   The person has appropriately diagnosed the situation, but then decide upon an erroneous course of action: the wrong rule is being followed.
+This means that when people encounter a new technology, say a lawn mower, they shouldn’t have to spend a long time learning how to use it before they can use it – in this case, to mow the lawn. Good design allows them to learn as they go.
 
-**Knowledge-based**
+Most people would just say, “Read the manual!” However, user manuals are often too complex and abstract to understand.
 
-*   The problem is misdiagnosed because of erroneous or incomplete knowledge.
-*   _Etc: Weight of fuel was computed in pounds instead of kg_
+So what’s the solution?
 
-**Memory-lapse**
+One way to help consumers learn how to use products is to give them clear signs or clues.
 
-*   When there is forgetting at stages of goals, plans or evaluation.
-*   _Etc: A mechanic failed to complete troubleshooting because of distraction_
+Take the example of the simple door. We don’t usually have trouble using a door: we turn the handle, and push or pull it in the direction the hinges tell us to open the door.
 
-Mistakes are errors in setting the goal or plan, and in comparing results with expectations — the higher levels of cognition. Slips happen in the execution of a plan, or in the perception or interpretation of the outcome — the lower stages.
+Yet sometimes even this simple task is beyond us.
 
-![Image for post](https://miro.medium.com/max/1948/1*x0BizwlqGI5bkoMA7Wyq1g.png)
+Without a sign on the door saying whether we should push or pull, even a door can be a challenge. Often, it’s not evident whether to push or pull. If the door is made of glass, has no handle, and the hinges aren’t easy to locate, we can find ourselves pushing a door in vain on the side of the hinges.
 
-A memory lapse at one of these transitions stops the action cycle from proceeding, and so the desired action is not completed.
+This led to an embarrassing situation for one of the author’s friends: unable to locate the hinges of a glass door which lacked any signs as to where to push, he became trapped between two glass doors!
 
-Slips are the result of subconscious getting waylaid en route. Mistakes result from conscious deliberations.
+# The Design of Everyday Things Key Idea #3: The design process needs to consider human psychology.
 
-* * *
+Imagine you’re a product designer designing a new washing machine. Although it’s a common household appliance, your washing machine will need new features so it stands out from the competition. But for your users to be able to understand these new, unfamiliar features, you’ll have to take their _psychology_ into consideration.
 
-## **The Classification of Slips**
+According to the author, users engage with a product on three different psychological levels.
 
-*   Occur more frequently to skilled people than to novices.
-*   Often result from a lack of attention to the task.
-*   Skilled people tend to perform tasks automatically, under subconscious control. Novices have to pay considerable conscious attention, resulting in a relatively low occurrence of slips.
+First comes the _visceral_ _level_, which corresponds to the unconscious behaviors we do without thinking, like breathing and digesting.
 
-## 1\. Capture Slips
+Next comes the _behavioral_ _level_. This level includes the quick reflexes we use when we play sports, like catching a ball, or short-timed responses to actions, like pulling our hand away from a fire. These are conscious responses, but don’t allow us a lot of time to think about them.
 
-The capture slip is defined as the situation where, instead of the desired activity, a more frequently or recently performed one gets done instead: it captures the activity.
+Finally, the _reflective_ _level_ is the realm of conscious, higher cognitive functions where we perform complex planning and problem solving.
 
-*   Require that part of the action sequences involved in the 2 activities be identical, with one sequence being far more familiar than the other. After doing the identical part, the more frequent or more recent activities continues, and the intended one does not get done.
-*   _I was using a copying machine, and I was counting the pages. I found myself counting, “1, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King.” I had been playing cards recently._
-*   **Designers need to avoid procedures that have identical opening steps but then diverge. Whenever possible, the sequence should be designed to differ from the very start.**
+So how does this relate to design?
 
-## 2\. Description — Similarity Slips
+Let’s clarify things with the help of an example.
 
-The error is to act upon an item similar to the target. This happens when the description of the target is sufficiently vague.
+Any product, like your newly designed washing machine, must interact with these three psychological levels. Say you need to wash some clothes for a business meeting. On the reflective level, you have a problem (dirty clothes), which require you to have a plan (which wash cycle) to accomplish a goal (can we wear these clothes to the meeting?). Therefore, to easily engage your reflective level, the machine should have many options to fit your different problems and plans.
 
-*   _A student reported that one day he came home from jogging, took off his sweaty shirt, and rolled it up in a ball, intending to throw it in the laundry basket. Instead he threw it in the toilet._
-*   The more wrong and right objects have in common, the more likely the errors are to occur.
-*   The more objects present at the same time, the more likely the error.
-*   **Designers need to ensure that controls and displays for different purposes are significantly different from one another.**
+At the behavioral level, you implement the plan by selecting the options (setting the wash cycle) and interpreting the results (are the clothes clean?). The machine cycles should therefore be simple and quick to select, and there should be a clear signal to the user at the end of the washing process.
 
-## 3\. Memory — Lapse Slips
+Finally, at the visceral level, you activate the machine (pressing the buttons) and observe what happens (does the wash begin?). As this is done without thinking, the buttons should be easy to find and make a clear signal when pressed.
 
-The immediate cause of most memory-lapse failures is interruptions, events that intervene between the time an action is decided upon and the time it is completed.
+# The Design of Everyday Things Key Idea #4: The key to fixing bad design is to find the “root cause” of the problem.
 
-Several ways to combat memory laps:
+Once you’ve discovered that people are having trouble using a product, how do you assess the main cause of the problem?
 
-1.  Minimise the number of steps.
-2.  Provide vivid reminders of steps that need be completed.
-3.  Use the forcing function.
+You need to find the problem’s _root_ _cause_ – because just as a Band-Aid is not effective for a knife wound, you can’t solve design errors by fixing superficial problems.
 
-## 4\. Mode — Error Slips
+That’s why getting to the root of the problem will help users and fix the problem in the long run. Instead of blaming the user when something goes wrong with a product, we should dig deeper and discover _why_ they made the mistake.
 
-A mode error occurs when a device has different states in which the same controls have different meanings.
+Take the example of the flight controls from airplanes.
 
-* * *
+In the old flight control model, the button to increase or decrease velocity looked the same as the button to increase or decrease the angle of descent or ascent. This led to many pilots getting confused; although it was the pilots who were making the mistakes by confusing the buttons, it was _the_ _design_ _error_ of making the buttons confusing (the root cause) that led to the mistakes in the first place.
 
-## **The Classification of Mistakes**
+By changing the flight controls’ appearance, designers were, paradoxically, able to decrease the chances of “human error.”
 
-Mistakes result from the choice of inappropriate goals and plans or from faulty comparison of the outcome with the goals during evaluation. In mistakes, a person makes a poor decision, misclassifies a situation, or fails to take all the relevant factors into account.
+So what’s the best way to find the root cause?
 
-## 1\. Rule-Based Mistakes
+Through _design_ _thinking_: an open inquiry method used for diagnosing and solving problems.
 
-When new procedures have to be invoked or when simple problems arise, we can characterise the actions of skilled people as rule-based. All we must do is identify the situation, select the proper rule, and then follow it.
+Design thinking goes below the surface of the problem to find its underlying causes. For example, at Toyota, the production team follows a procedure known as the “five whys.” When searching for the cause of a problem in one of their models, the team repeatedly asks why – even if “the initial problem” is found and resolved. To get to the root of the problem, they continue to ask “why” five times until they’ve targeted not just the obvious errors, but the hidden ones as well.
 
-*   Provide as much guidance as possible to ensure the current state of things is displayed in a coherent and easily interpreted format — ideally graphical.
+# The Design of Everyday Things Key Idea #5: Good design uses product constraints to help the user understand the product.
 
-## 2\. Knowledge-Based Mistakes
+Have you ever bought a wardrobe from IKEA? Despite many people’s claims that they’re a nightmare to put together, they’re actually incredibly easy to erect. Their ease of use is partly because IKEA’s products are full of _constraints_: clues and limits that direct how to use the product.
 
-Knowledge-based behavior takes place when the situation is novel enough that there are no skills or rules to cover it. In this case, a new procedure must be devised.
+So how do so-called constraints work?
 
-Knowledge-based behavior is controlled at the reflective level and is slow and conscious.
+Constraints educate the user to use the product appropriately. Take again the example of IKEA’s self-assembly furniture. Before assembling, you’ll notice there are nuts and bolts of various sizes, and they all match up with equal-sized holes. There is only one place that each bit can go into, which makes it easier to assemble. This is an example of a _physical_ _constraint_ that directs the user towards one and only one specific action. Without constraints like these, people would get confused and struggle to build the product they bought.
 
-## 3\. Memory-Lapse Mistakes
+There are also _cultural_ _constraints,_ which are the product of shared beliefs. An example of this is the international screw standard. We all know to turn screws one way to tighten them and another to loosen. We take it for granted, but it’s this community-wide knowledge which makes the screwdriver so easy to use!
 
-Memory lapses can lead to mistakes if the memory failure leads to forgetting the goal or plan of action.
+Constraints can also help remind people about important uses for the device that they may have forgotten. Imagine you’re working on a document on the computer. You work on it for many hours, but close it down without saving – big mistake!
 
-*   A common cause of the lapse is an interruption that leads to forgetting the evaluation of the current state of the environment. These lead to mistakes, not slips, because the goals and plans become wrong.
-*   Forgetting earlier evaluations often means remaking the decision, sometimes erroneously.
+Not quite.
 
-* * *
+Nowadays, if you quit without saving, most operating systems and programs put a constraint on your action and ask if you would like to save before closing. Even if you didn’t want to use the save function, this constraint reminds you that it’s there – which is far better than not being asked at all.
 
-## Designing for Error
+# The Design of Everyday Things Key Idea #6: Well-designed products communicate with users by providing feedback.
 
-*   Understand the causes of error and design to minimize those causes.
-*   Do sensibility checks. Does the action pass the “common-sense”test?
-*   Make it possible to reverse actions — to “undo” them — or make it harder to do what cannot be reversed.
-*   Make it easier for people to discover the errors that do occur, and make them easier to correct.
-*   Don’t treat the action as an error; rather, try to help the person complete the action properly. Think of the action as an approximation to what is desired.
+Imagine you just got a new smartphone. You want to test the alarm, so you set the clock and wait. But how do you know the alarm is set? Usually, the phone will indicate it with a sign – for example, a little clock symbol in the top right corner. This tiny piece of _feedback_ is a vital part of design.
 
-Novices are more likely to make mistakes than slips, whereas expects are more likely to make slips. Mistakes often arise from ambiguous or unclear information about the current state of a system, the lack of a good conceptual model, and inappropriate procedures.
+Why?
 
-## Design Lessons from the Study of Errors
+Because feedback is how a device communicates with you.
 
-**Adding constraints to block errors**
+Good design provides answers to the user’s questions and clarifies confusions. To do so, the device needs to communicate with users to guide them through using the device. It’s this feedback – in the form of signs, sounds and vibrations – that help the users understand the device.
 
-*   This can be done through clever use of shape and size
+To further clarify, let’s imagine you’re at a technology convention, testing out a smart-room, or a room with many technological devices and switches. In order to work every light, projector and sound system, the central computer must provide you with enough information to navigate the interface. Hitting a button should correspond to the requested operation, like lighting a light, and, if it works, the system should feed back that it has complied with the user’s intention. And if the computer cannot comply or the user makes a mistake, the device should alert the user with an error message and an explanation of how to solve the problem.
 
-**Undo**
+Feedback also has another important usage: it lets the user know the current status of the product, for example, if something is on or off.
 
-*   Reversing the operations performed by the previous command, wherever possible.
+Imagine a home security system that you activate before you leave the house. If someone breaks in, the police are alerted immediately. When you set up the alarm, the security system should provide you with a signal telling you whether the alarm is active or not. Without this signal, users might leave their houses unprotected or accidently set off their own alarm!
 
-**Confirmation and Error Messages**
+In the next book summary, you’ll find out the secrets to successful design.
 
-*   Prevent errors by requiring confirmation before a command will be executed, especially when the action will destroy something of importance.
+# The Design of Everyday Things Key Idea #7: Design needs to be human-centered to bring technology and people closer together.
 
-**Sensibility Checks**
+Technology’s amazing evolution allows us to do things we never would have dreamed of twenty years ago. But despite technology’s progress, design often lags behind because, unfortunately, designers often forget the abilities and needs of the users.
 
-*   Electronic systems have another advantage over mechanical ones: they can check to make sure that the requested operation is sensible.
-*   _Etc: When transferring money, the system take note of the normal size of your transactions and check whether you misenter the amount._
+That’s because, all too often, in an effort to make something radically new, designers forget who’ll actually be using the product in the end: people.
 
-**Minimizing Slips**
+So how can designers make sure their design is _human-centered?_
 
-*   Ensure that the actions and their **controls are dissimilar** or as **physically far apart** as possible.
-*   Mode errors can be eliminated by the simple expedient of eliminating most modes or **making the modes very visible and distinct from one another.**
-*   **Provide perceptible feedback about the nature of the action being performed**, then very perceptible feedback describing the new resulting state, coupled with a **mechanism that allows the error to be undone.**
+Human-centered design requires a four step process. Let’s take a look at the steps using the example of a dishwasher design that needs improving.
 
-* * *
+First, you can’t understand a design’s problem unless you see people interacting with the product. So the first task is to study, in a control-room setting, how people interact with the dishwasher. What problems do they encounter? Perhaps they have trouble running a cycle because of an overly complex user interface?
 
-## **Design Principles for Dealing with Error**
+The next step is to generate problem-solving ideas. Maybe there’s a way to make the dishwasher offer a full range of cycles while being much simpler to use. Or perhaps a feedback mechanism could be implemented that alerts users when they enter the wrong action.
 
-*   **Put the knowledge required to operate the technology in the world.** Don’t require that all the knowledge must be in the head. Allow for efficient operation when people have learned all the requirements, when they are experts who can perform without the knowledge in the world, but make it possible for non-experts to use the knowledge in the world.
-*   **Use the power of natural and artificial constraints**: physical, logical, semantic, and cultural. Exploit the power of forcing functions and natural mappings.
-*   Bridge the two gulfs, the Gulf of Execution and the Gulf of Evaluation. Make things visible, both for execution and evaluation. On the execution side, **provide feedforward information**: make the options readily available. On the evaluation side, **provide feedback**: make the results of each action apparent. Make it possible to determine the system’s status readily, easily, accurately, and in a form consistent with the person’s goals, plans, and expectations.
+The third step is to make a prototype. This prototype should provide solutions to the previous problems without creating new ones. Does the prototype now show users how to set a cycle?
 
-* * *
+Finally, the prototype must be tested. This should be done in a control-room environment. Users should be asked to attempt the actions that created problems initially and see what happens. Do problems persist? Are they solved? Or do other problems appear?
 
-# Chapter 6 — Human Centered Design
+The process then starts again until there are no more problems – and the product is human-centred.
 
-> Never solve the problem I am asked to solve.
+# The Design of Everyday Things Key Idea #8: Successful products require patience and cooperation between marketers and designers.
 
-Invariably, the problem I am asked to solve is not the real, fundamental, root problem. It is usually a symptom.
+Great, human-centered design isn’t enough to make a successful product on its own. For a product to be profitable, designers needs to work with other business departments.
 
-> In design, the secret to success is to understand what the real problem is.
+For example, let’s look at touch screens like those found on smart phones. Although they’ve been around since the 1980s, they only started being widely used by the end of the millenium. Why? Because before then, the desires of both marketing and designers didn’t coincide. 
 
-In the real world, the problems do not come in nice, neat packages. They have to be discovered. It is all too easy to see only the surface problems and never dig deeper to address the real issues.
+The designers considered the product an innovation of the individual user’s experience, and so focused on the product’s usability. But the screens that met their high standards were far too expensive to be released on a greater scale.
 
-* * *
+At the same time, marketers were focusing on the big picture: the quantity of people using a product. They therefore wanted inexpensive touch screens – but they were too difficult to use.
 
-## Solving the Correct Problems.
+This is the dilemma: for a product to succeed, both departments need to be in accord with one another. The product needs to be of high enough quality for the designer and profitable enough for the marketers. That’s why, years later, when touch screen prices had lowered, marketers were able to release a product that took the world by storm.
 
-> A brilliant solution to the wrong problem can be worse than no solution at all: solve the correct problem.
+Another key to creating a good product is _patience._ According to _Norman’s_ _Law_, the day product development starts, it’s always over budget and behind schedule. In other words, you have to expect setbacks to realistically plan production.
 
-Good designers never start by trying to solve the problem given to them: they start by trying to understand what the real issues are.
+But that’s forgotten all too often. The author describes a product he worked on that was planned for a Christmas release. It was given the unrealistic production time of four weeks because after that the factory in Spain would go on vacation. However, the product wasn’t ready before the factory went on vacation, and the release never happened.
 
-Human-centered design, is to ensure that the result fits human desires, needs and capabilities. After all, why do we make products? We make them for people to use.
+## Final Summary
 
-* * *
+The key message in this book:
 
-Effective design needs to satisfy a large number of constraints and concerns, including shape and form, cost and efficiency, reliability and effectiveness, understandability and usability, the pleasure of the appearance, the pride of ownership, and the joy of actual use. **_HCD is a procedure for addressing these requirements, but with an emphasis on two things: solving the right problem, and doing so in a way that meets human needs and capabilities._**
+**Good design uses human psychology to create products adapted to users’ needs and desires. Human-centered design focuses on creating products for the users, and helps users learn how to use a product, avoid dangerous errors and bring users and technology closer together.**
 
-* * *
+Actionable advice:
 
-## The Double Diamond Model of Design
+**Give manufacturers feedback.**
 
-![Image for post](https://miro.medium.com/max/850/1*bNAJ0VYzxsagAju8TXOGjg.jpeg)
+The next time you have trouble using a device, don’t blame yourself: you’re probably not the only one who’s run into the problem. Help everyone out by letting the manufacturers of that device know about the problem so they can create better designs in the future.
 
-Designers often start by questioning the problem given to them: they expand the scope of the problem, diverging to examine all the fundamental issues that underlie it. The they converge upon a single problem statement. During the solution phase of their studies, they first expand the scope of possible solutions, the divergence phase. Finally they converge upon a proposed solution.
+**Keep digging till you hit the root.**
 
-![Image for post](https://miro.medium.com/max/913/1*7rM5sRadllby58FSKkQpRA.png)
-
-**The Iterative Cycle of Human-Centered Design.** Make observations on the intended tar- get population, generate ideas, produce prototypes and test them. Repeat until satisfied. This is often called the _spiral method_ (rather than the circle depicted here), to emphasize that each iteration through the stages makes progress.
-
-Design researchers have the goal of determining human needs that can be addressed through new products.
-
-It’s important that the people being observed match those of the intended audience.
-
-Even when we look at widely different cultures, the activities are often surprisingly similar. As a result, the studies can focus upon the activities and how they get done, while being sensitive to how the local environment and culture might modify those activities.
-
-In some cases, detailed analyses of the intended group are necessary.
-
-> If a product is intended for subcultures like these, the exact population must be studied. Another way of putting it is that different products serve different needs. Some products are also symbols of status or group membership.
-
-Design research supports both diamonds of the design process. The first diamond, finding the right problem, requires a deep un- derstanding of the true needs of people. Once the problem has been defined, finding an appropriate solution again requires deep understanding of the intended population, how those people per- form their activities, their capabilities and prior experience, and what cultural issues might be impacted.
-
-* * *
-
-## Design Research vs Marketing Research
-
-Design wants to know **_what people really need and how they actually will use the product or service_** under consideration. Marketing wants to know **_what people will buy, which includes learning how they make their purchasing decisions._**
-
-Designers tend to use qualitative observational methods by which they can study people in depth, understanding how they do their activities and the environmental factors that come into play. These methods are very time consuming, so designers typically only examine small numbers of people, often numbering in the tens.
-
-The different methods have different goals and produce very different results. Designers complain that the methods used by marketing don’t get at real behavior: what people say they do and want does not correspond with their actual behavior or desires. People in marketing complain that although design research methods yield deep insights, the small number of people observed is a concern. Designers counter with the observation that traditional marketing methods provide shallow insight into a large number of people.
-
-> We need both. Designers understand what people really need. Marketing understands what people actually buy. These are not the same things, which is why both approaches are required: marketing and design researchers should work together in complementary teams.
-
-What are the requirements for a successful product? First, if no- body buys the product, then all else is irrelevant. The product de- sign has to provide support for all the factors people use in making purchase decisions. Second, once the product has been purchased and is put into use, it must support real needs so that people can use, understand, and take pleasure from it. The design specifications must include both factors: marketing and design, buying and using.
-
-* * *
-
-
-## Idea Generation
-
-*   **Generate numerous ideas.** It is dangerous to become fixated upon one or two ideas too early in the process.
-*   **Be creative without regard for constraints.** Avoid criticizing ideas, whether your own or those of others. Even crazy ideas, often obviously wrong, can contain creative insights that can later be extracted and put to good use in the final idea selection. Avoid premature dis- missal of ideas.
-*   **Question everything.** I am particularly fond of “stupid” questions. A stupid question asks about things so fundamental that everyone assumes the answer is obvious. But when the question is taken seriously, it often turns out to be profound: the obvious often is not obvious at all. What we assume to be obvious is simply the way things have always been done, but now that it is questioned, we don’t actually know the reasons. Quite often the solution to problems is discovered through stupid questions, through questioning the obvious.
-
-* * *
-
-## Prototyping
-
-![Image for post](https://miro.medium.com/max/1200/1*f3NFrHOIH1L6vOyxSDOBzA.png)
-
-The only way to really know whether an idea is reasonable is to test it. Build a quick prototype or mock-up of each potential solution. Sometimes ideas are best conveyed by skits, especially if you’re developing services or automated systems that are difficult to prototype.
-
-* * *
-
-## Testing
-
-Gather a small group of people who correspond as closely as possible to the target population — those for whom the product is intended. Have them use the prototypes as nearly as possible to the way they would actually use them.
-
-The research team should be observing, either by sitting behind those being tested (so as not to distract them) or by watching through video in another room (but having the video camera visible and after describing the procedure). **_Video recordings of the tests are often quite valuable, both for later showings to team members who could not be present and for review._**
-
-> Five people studied individually. Then, study the results, refine them, and do another iteration, testing five different people.
-
-* * *
-
-## Iteration
-
-> The role of iteration in human-centered design is to enable continual refinement and enhancement.
-
-Failures are to be encouraged — actually, they shouldn’t be called failures: they should be thought of as learning experiences.
-
-The hardest part of design is getting the requirements right. **_Requirements made in the abstract are invariably wrong. Requirements produced by asking people what they need are invariably wrong. Requirements are developed by watching people in their natural environment._**
-
-> When people are asked what they need, they primarily think of the everyday problems they face, seldom noticing larger failures, larger needs.
-
-With each cycle of the iteration, the ideas become clearer, the specifications better defined, and the prototypes closer approximations to the target, the actual product. After the first few iterations, it is time to start converging upon a solution. The several different prototype ideas can be collapsed into one.
-
-* * *
-
-## Activity-centered versus Human-centered design
-
-What if the product is intended for people all across the world?
-
-**_Activity-centered design._**Let the activity define the product and its structure. Let the conceptual model of the product be built around the conceptual model of the activity.
-
-There is a difference between task and activity. **_Designing for tasks is usually too restrictive._** An activity is a high-level structure, perhaps “go shopping.” A task is a lower-level component of an activity, such as “drive to the market,” “find a shopping basket,” and so forth.
-
-**Goals have three fundamental levels that control activities.**
-
-*   Be-goals are at the highest, most abstract level and govern a person’s being: **_they determine why people act, are fundamental and long lasting, and determine one’s self-image._** Of far more practical concern for everyday activity is the next level down, the do-goal, which is more akin to the goal I discuss in the seven stages of activity.
-*   Do-goals determine** _the plans and actions to be performed for an activity._**
-*   Motor-goal, which **_specifies just how the actions are performed_**: this is more at the level of tasks and operations rather than activities.
-
-The German psychologist Marc Hassenzahl has shown how this three-level analysis can be used to guide in the development and analysis of a person’s experience (the user experience, usually abbreviated UX) in interacting with products.
-
-Design for individuals and the results may be wonderful for the particular people they were designed for, but a mismatch for others. Design for activities and the result will be usable by everyone. A major benefit is that if the design requirements are consistent with their activities, people will tolerate complexity and the requirements to learn something new: as long as the complexity and the new things to be learned feel appropriate to the task, they will feel natural and be viewed as reasonable.
-
-* * *
-
-## Iterative Design vs Linear Stages
-
-One of the most difficult activities is to get the specifications right: to determine that the correct problem is being solved. Iterative methods are designed to defer the formation of rigid specifications, to start off by diverging across a large set of possible requirements or problem statements before convergence, then again diverging across a large number of potential solutions before converging. Early prototypes have to be tested through real interaction with the target population in order to refine the requirements.
-
-**_The iterative method, however, is best suited for the early design phases of a product, not for the later stages._ **It also has difficulty scaling its procedures to handle large projects. It is extremely difficult to deploy successfully on projects that involve hundreds or even thousands of developers, take years to complete, and cost in the millions or billions of dollars.
-
-**_The best methods combine the benefits of both iteration and stage reviews._ **Iteration occurs inside the stages, between the gates. The goal is to have the best of both worlds: iterative experimentation to refine the problem and the solution, coupled with management reviews at the gates.
-
-> The trick is to delay precise specification of the product requirements until some iterative testing with rapidly deployed prototypes has been done, while still keeping tight control over schedule, budget, and quality.
-
-* * *
-
-## **What I Just Told You? It Doesn’t Really Work That Way**
-
-The reality of life within a business often forces people to behave quite differently from that ideal. One disenchanted member of the design team for a consumer products company told me that although his company professes to follow human-centered design, in practice there are only two drivers of new products:
-
-*   Adding features to match the competition
-*   Adding some feature driven by a new technology
-
-**_Market-driven pressures plus an engineering- driven company yield ever increasing features, complexity, and confusion._** But even companies that do intend to search for human needs are thwarted by the severe challenges of the product development process, in particular, **_the challenges of insufficient time and insufficient money._**
-
-* * *
-
-## Don Norman’s Law of Product Development
-
-> _The day a product development process starts, it is behind schedule and above budget._
-
-Product development involves an incredible mix of disciplines. Often the requirements posed by each discipline are contradictory or incompatible with those of the other disciplines. But all of them are correct when viewed from their respective perspective.
-
-The way to handle the time crunch that eliminates the ability to do good up-front design research is to separate that process from the product team: have design researchers always out in the field, always studying potential products and customers. Then, when the product team is launched, the designers can say, “We already examined this case, so here are our recommendations.” The same argument applies to market researchers.
-
-**_The clash of disciplines can be resolved by multidisciplinary teams whose participants learn to understand and respect the requirements of one another._ **If all the viewpoints and requirements can be understood by all participants, it is often possible to think of creative solutions that satisfy most of the issues.
-
-> Multidisciplinary teams allow for enhanced communication and collaboration, often saving both time and money.
-
-In a properly run organization, team members coming from all the various aspects of the product cycle get together to share their requirements and to work harmoniously to design and produce a product that satisfies them. In dysfunctional companies, each team works in isolation, often arguing with the other teams, often watching its designs or specifications get changed by others in what each team considers an unreasonable way. **_Producing a good product requires a lot more than good technical skills: it requires a harmonious, smoothly functioning, cooperative and respectful organization._**
-
-* * *
-
-## Universal Design
-
-> Sometimes it is simply impossible to build one product that accommodates everyone, so the answer is to build different versions of the product.
-
-Design for interests and skill levels. Don’t be trapped by overly general, inaccurate stereotypes.
-
-**_The best solution to the problem of designing for everyone is flexibility:_ **flexibility in the size of the images on computer screens, in the sizes, heights, and angles of tables and chairs.
-
-> Fixed solutions will invariably fail with some people; flexible solutions at least offer a chance for those with different needs.
-
-* * *
-
-## Standardisation and Technology
-
-If we examine the history of advances in all technological fields, we see that some improvements come naturally through the technology itself, others come through standardisation.
-
-Standardisation is one type of cultural constraint. It provides a major breakthrough in usability.
-
-Standards can take so long to be established that by the time they do come into wide practice, they can be irrelevant. Nonetheless, standards are necessary. They simplify our lives and make it possible for different brands of equipment to work together in harmony.
-
-* * *
-
-## **Deliberately Making Things Difficult**
-
-Most things are intended to be easy to use, but aren’t. But some things are deliberately difficult to use — and ought to be. For example:
-
-*   Any door designed to keep people in or out.
-*   Security systems, designed so that only authorised people will be able to use them.
-*   Dangerous equipment, which should be restricted.
-
-Even where a lack of usability is deliberate, it is still important to know the rules of understandable and usable design for 2 reasons:
-
-1.  Usually there is one difficult part, design to keep unauthorised people from using the device; the rest of it should follow the normal principles of good design.
-2.  Even if your job is to make something difficult to do, you need to go about doing it. The rules are useful, for they state in reverse just how to go about the task. Etc:
-
-*   Hide critical component: make things invisible
-*   Unnatural mappings
-*   Don’t provide any feedback.
-
-* * *
-
-# Chapter 7 — Design in the World of Business
-
-When new technologies emerge, there is a temptation to develop new products immediately. But the time for radically new products to become successful is measured in years, decades, or in some instances centuries. This causes me to examine the two forms of product innovation relevant to design: incremental (less glamorous, but most common) and radical (most glamorous, but rarely successful).
-
-* * *
-
-## Featuritis: A deadly temptation
-
-The problem is that after the product has been available for a while, a number of factors inevitably appear, pushing the company toward the addition of new features — toward creeping featurism.
-
-*   Existing customers like the product, but express a wish for more features, more functions, more capability.
-*   A competing company adds new features to its products, producing competitive pressures to match that offering, but to do even more in order to get ahead of the competition.
-*   Customers are satisfied, but sales are declining because the market is saturated: everyone who wants the product already has it. Time to add wonderful enhancements that will cause people to want the new model, to upgrade.
-
-> Creeping featurism is the tendency to add to the number of features of a product, often extending the number beyond all reason. There is no way that a product can remain usable and understand- able by the time it has all of those special-purpose features that have been added in over time.
-
-When companies try to increase sales by matching every feature of their competitors, they end up hurting themselves.
-
-A better strategy is to **_concentrate on areas where they are stronger and to strengthen them even more._** Then focus all marketing and advertisements to point out the strong points. This causes the product to stand out from the mindless herd.
-
-The lesson is simple: **_don’t follow blindly; focus on strengths, not_ weaknesses.** If the product has real strengths, it can afford to just be “good enough” in the other areas.
-
-> The best products come from ignoring these competing voices and instead focusing on the true needs of the people who use the product.
-
-* * *
-
-## **How Long Does It Take to Introduce a New Product?**
-
-Technology changes rapidly, but people and culture change slowly. Change is, therefore, simultaneously rapid and slow. It can take months to go from invention to product, but then decades — sometimes many decades — for the product to get accepted.
-
-There is another problem: the general conservatism of large companies. Most radical ideas fail: large companies are not tolerant of failure. Small companies can jump in with new, exciting ideas because if they fail, well, the cost is relatively low.
-
-Failure can occur for many reasons: perhaps the marketplace is not ready; perhaps the technology is not ready for commercialization; perhaps the company runs out of money before it can gain traction.
-
-* * *
-
-> Stigler’s law: the names of famous people often get attached to ideas even though they had nothing to do with them.
-
-* * *
-
-## **Two Forms of Innovation: Incremental and Radical**
-
-There are two major forms of product innovation: one follows a natural, slow evolutionary process; the other is achieved through radical new development.
-
-> Radical innovation changes lives and industries. Incremental innovation makes things better. We need both.
-
-**Incremental innovation  
-**Most design evolves through incremental innovation by means of continual testing and refinement. In the ideal case, the design is tested, problem areas are discovered and modified, and then the product is continually retested and remodified.
-
-**Radical innovation  
-**Radical innovation starts fresh, often driven by new technologies that make possible new capabilities.
-
-* * *
-
-Evolutionary change to people is always taking place, but the pace of human evolutionary change is measured in thousands of years. Human cultures change somewhat more rapidly over periods measured in decades or centuries.
-
-What this means is that although technology is continually introducing new means of doing things, people are resistant to changes in the way they do things.
-
-* * *
-
-## Things that make us smart
-
-One argument is that technology makes us smart: we remember far more than ever before and our cognitive abilities are much enhanced.
-
-Another argument is that technology makes us stupid. Sure, we look smart with the technology, but take it away and we are worse off than before it existed. We have become dependent upon our technologies to navigate the world, to hold intelligent conversation, to write intelligently, and to remember.
-
-> Reliance on technology is a benefit to humanity. With technology, the brain gets neither better nor worse. Instead, it is the task that changes. Human plus machine is more powerful than either human or machine alone.
-
-* * *
-
-## **The Moral Obligations of Design**
-
-In the consumer economy, taste is not the criterion in the marketing of expensive foods or drinks, usability is not the primary criterion in the marketing of home and office appliances. We are surrounded with objects of desire, not objects of use.
-
-> Out-of-date features, out-of-date styling, and even out-of-date colors entice homeowners to change.
-
-The design of everyday things is in great danger of becoming the design of superfluous, overloaded, unnecessary things.
-
-* * *
-
-## **Design Thinking and Thinking About Design**
-
-Design is successful only if the final product is successful — if people buy it, use it, and enjoy it, thus spreading the word. A design that people do not purchase is a failed design, no matter how great the design team might consider it.
-
-Designers need to make things that satisfy people’s needs, in terms of function, in terms of being understandable and usable, and in terms of their ability to deliver emotional satisfaction, pride, and delight.
-
-> The design must be thought of as a total experience.
-
-Designers will be more effective as they learn more about sales and marketing, and the financial parts of the business.
-
-**_In today’s environmentally sensitive world, the full life cycle of the product must be taken into consideration_.** What are the environmental costs of the materials, of the manufacturing process, of distribution, servicing, and repairs? When it is time to replace the unit, what is the environmental impact of recycling or otherwise reusing the old?
-
-* * *
-
-> If you are a designer, help fight the battle for usability. If you are a user, then join your voice with those who cry for usable products. Support good designs by purchasing them, even if it means going out of your way, even if it means spending a bit more.
-> 
-> And enjoy yourself. Walk around the world examining the details of design. Learn how to observe. Take pride in the little things that help: think kindly of the person who so thoughtfully put them in. Realize that even details matter, that the designer may have had to fight to include something helpful.
-
-* * *
-
-## The Rise of the Small
-
-I dream of the power of individuals, whether alone or in small groups, to unleash their creative spirits, their imagination, and their talents to develop a wide range of innovation.
-
-> I dream of a renaissance of talent, where people are empowered to create, to use their skills and talents.
-
-* * *
-
-> With massive change, a number of fundamental principles stay the same. Human beings have always been social beings. Social interaction and the ability to keep in touch with people across the world, across time, will stay with us.
-
-> Our technologies may change, but the fundamental principles of interaction are permanent.
+The next time you’re told to solve a problem, don’t try to solve it immediately, but ask whether that problem is the _real_ problem at hand. If you keep asking why, you’ll reveal the root problem that lies underneath. And if the initial problem was already the cause, at least you’ll now know the problem inside out.
