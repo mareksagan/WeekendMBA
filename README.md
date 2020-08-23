@@ -13,3 +13,9 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 [Books-that-can-change-your-life.net](https://books-that-can-change-your-life.net/)
 
 [Beyondintractability.org](https://www.beyondintractability.org/)
+
+[Mentalpivot.com](https://mentalpivot.com/)
+
+[Munchweb.com](https://munchweb.com/)
+
+[Utilitarianism.fandom.com](https://utilitarianism.fandom.com/)
