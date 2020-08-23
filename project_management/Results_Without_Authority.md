@@ -1,22 +1,4 @@
-
-
-
-
-
-
-
-
-[PMBA](https://books-that-can-change-your-life.net/category/pmba/ "PMBA")[Productivity & Effectiveness](https://books-that-can-change-your-life.net/category/productivity-effectiveness/ "Productivity & Effectiveness")
-
 # Results Without Authority
-
-Posted [November 17, 2018March 9, 2020](https://books-that-can-change-your-life.net/results-without-authority/) [Olivier Roland](https://books-that-can-change-your-life.net/author/whoisjg/)
-
-
-
-
-
-[![Results Without Authority - Controlling a project when the team doesn't report to you](https://i1.wp.com/booksen.wpengine.com/wp-content/uploads/2009/01/image2.png?resize=350%2C350)](https://amzn.to/2QgypwV)
 
 > **Summary of “Results without authority”:** Today in large organizations, it is rare that the project lead has supervisory power over all the people on his project team. He must, however, maintain enthusiasm, motivation and results from people without being able to use the power of his position and powers of coercion; this book teaches us numerous techniques to do so.
 
@@ -29,8 +11,6 @@ __Note: This book is very heavy, in a very classic academic format (translate: i
 **Projects are everywhere**. Some are successful, others are not. And many projects fail because the project lead cannot control things well enough to bring them to their final conclusion. Projects today often take place in complex environments where the project lead does not have formal authority over the members of his project team.
 
 And even those that do, there is always a part of the project that falls to someone who doesn’t have this authority. Fortunately, it is possible to control a project and make it successful by **using techniques that don’t depend on your position** in the organization or your formal authority. Let’s take a look at them.
-
-
 
 ### **Chapter 2 : Control by Process**
 
@@ -168,8 +148,6 @@ To improve your project closure:
     *   **Complete final documentation** for the project.
     *   **Thank your team and celebrate** the fact that you are finished.
     *   **Be aware** of what you have learned and use it.
-
-![champagne](https://i2.wp.com/books-that-can-change-your-life.net/wp-content/uploads/2018/11/pexels-photo-e1542717948262.jpg?resize=600%2C400&ssl=1)
 
 #### **Conclusion** of “Results without authority”
 
