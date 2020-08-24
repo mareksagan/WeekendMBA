@@ -29,3 +29,7 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 [Naveedjan.com](https://www.naveedjan.com/)
 
 [Marketingfirst.co.nz](https://www.marketingfirst.co.nz/)
+
+[Medium.com](https://medium.com/)
+
+[Marloyonocruz.com](https://marloyonocruz.com/)
