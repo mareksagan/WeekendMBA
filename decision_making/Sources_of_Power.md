@@ -177,7 +177,7 @@ Mental simulation allows gauging various ways of reacting, by accepting them or 
 This method of decision-making having duly compared the advantages and disadvantages of each option is a good example of the rational choice model. Researchers have analyzed various decisions in various situations and have sorted them according to their belonging to the rational model or the RPD model:
 
 | **Task Conditions**             | **Decisions based on the RPD model** | **Rational Choice Strategies** |
-| ------------------------------------------------------------------------------------------------------- |
+| ------------------------------- | ------------------------------------ | ------------------------------ |
 | **Great time constraint**       | More likely                          |                                |
 | **Greater experience**          | More likely                          |                                |
 | **Dynamic conditions**          | More likely                          |                                |
@@ -204,7 +204,7 @@ On the contrary, people are more likely to use comparative evaluation when;
 The researchers also identified and analyzed a large number of decisions in various trades, and determined the percentage of those who used the RPD model:
 
 | **Surveyed trade**                       | **Number of decisions** | **Decisions using RPD** |
-| -------------------------------------------------------------------------------------------- |
+| ---------------------------------------- | ----------------------- | ----------------------- |
 | **Urban Fire Officers**                  | 156                     | 80%                     |
 | **Specialized and expert Fire Officers** | 48                      | 58%                     |
 | **Novice Fire Officers**                 | 33                      | 46                      |
