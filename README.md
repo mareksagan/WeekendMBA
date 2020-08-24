@@ -25,3 +25,5 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 [Joshkaufman.net](https://joshkaufman.net/)
 
 [Grahammann.net](https://www.grahammann.net/)
+
+[Naveedjan.com](https://www.naveedjan.com/)
