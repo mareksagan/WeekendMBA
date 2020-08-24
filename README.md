@@ -21,3 +21,5 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 [Utilitarianism.fandom.com](https://utilitarianism.fandom.com/)
 
 [Reachingaspiration.com](https://reachingaspiration.com/)
+
+[Joshkaufman.net](https://joshkaufman.net/)
