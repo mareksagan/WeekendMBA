@@ -23,3 +23,5 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 [Reachingaspiration.com](https://reachingaspiration.com/)
 
 [Joshkaufman.net](https://joshkaufman.net/)
+
+[Grahammann.net](https://www.grahammann.net/)
