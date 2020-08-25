@@ -33,3 +33,7 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 [Medium.com](https://medium.com/)
 
 [Marloyonocruz.com](https://marloyonocruz.com/)
+
+[Dejanmurko.com](https://www.dejanmurko.com/)
+
+[Investopedia.com](https://www.investopedia.com/)
