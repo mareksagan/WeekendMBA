@@ -37,3 +37,7 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 [Dejanmurko.com](https://www.dejanmurko.com/)
 
 [Investopedia.com](https://www.investopedia.com/)
+
+[Mudamasters.com](https://www.mudamasters.com/)
+
+[Tocinstitute.org](https://www.tocinstitute.org/)
