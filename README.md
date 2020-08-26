@@ -45,3 +45,7 @@ I **DO NOT** own the rights to the summaries, this is merely a backup in case th
 [Pitchground.com](https://pitchground.com/)
 
 [Mattmckee.me](https://www.mattmckee.me/)
+
+[Pocketbook4you.com](https://pocketbook4you.com/)
+
+[Strategiccfo.com](https://strategiccfo.com/)
