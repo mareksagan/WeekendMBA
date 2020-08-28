@@ -14,8 +14,6 @@ My Notes on “The Secrets of Consulting” by Gerald M. Weinberg:[![The secrets
 *   Inverse of the Hard Law: Some people do succeed as consultants, so it must be possible to deal with failure
 *   The Harder Law: Helping myself is even harder than helping others
 
-
-
 ### Cultivating a Paradoxical Frame of Mind
 
 *   Paradoxical because jiggling gets things unstuck

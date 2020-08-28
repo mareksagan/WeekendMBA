@@ -1,6 +1,8 @@
 ## **Summary of “_Fail-Safe Investing”_**
 
-Invest in a secure and simple way: “If you are unsure about whether to invest, it is always best to choose the safer route for you portfolio“. By [Harry Browne](https://en.wikipedia.org/wiki/Harry_Browne), 2000, 176 pages
+Invest in a secure and simple way: “If you are unsure about whether to invest, it is always best to choose the safer route for you portfolio“.
+
+By [Harry Browne](https://en.wikipedia.org/wiki/Harry_Browne), 2000, 176 pages
 
 _Note : This guest column was written by Aurélien from the blog_ _Je deviens riche_. Fail Safe Investing is part of the [_Personal MBA_](https://books-that-can-change-your-life.net/4-best-business-books-chosen-josh-kaufman-author-personal-mba/)_._
 

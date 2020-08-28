@@ -282,43 +282,12 @@ A use is a logical and objective description of a product’s capabilities. A be
 
 To clearly differentiate between uses and benefits, let’s take an example commonly used in sales courses, that of a wooden pencil.
 
-
-
-
-
-
-
-**Uses**
-
-**Benefits**
-
-
-
-
-
-Is made of wood
-
-Easy to sharpen
-
-
-
-
-
-Has a specific diameter
-
-Easy to hold
-
-
-
-
-
-Comes with graphite insert
-
-Can create impressive designs
-
-Has a rubber at one end
-
-Makes it easy to change things
+| **Uses**                   | **Benefits**                   |
+| -------------------------- | ------------------------------ |
+| Is made of wood            | Easy to sharpen                |
+| Has a specific diameter    | Easy to hold                   |
+| Comes with graphite insert | Can create impressive designs  |
+| Has a rubber at one end    | Makes it easy to change things |
 
 The list of benefits of this type of pencil is a lot longer. During the sales seminars he ran, Michael Masterson came up with more than 200 different benefits. So don’t limit yourself to the initial benefits you find for your product: search for them in depth.
 
